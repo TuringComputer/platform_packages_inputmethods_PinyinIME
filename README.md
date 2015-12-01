@@ -1,1 +1,0 @@
-# platform_packages_inputmethods_PinyinIME
